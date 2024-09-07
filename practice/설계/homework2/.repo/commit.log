@@ -1,0 +1,5 @@
+commit: "fisrt" - new file: "/home/woohyuk/Desktop/homework2/a/b/c.txt"
+commit: "fisrt" - new file: "/home/woohyuk/Desktop/homework2/a/a.txt"
+commit: "second" - modified: "/home/woohyuk/Desktop/homework2/a/a.txt"
+commit: "second" - modified: "/home/woohyuk/Desktop/homework2/a/b/c.txt"
+commit: "third" - modified: "/home/woohyuk/Desktop/homework2/a/b/c.txt"
